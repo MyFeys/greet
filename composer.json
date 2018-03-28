@@ -1,0 +1,13 @@
+{
+    "name": "wenxiansheng/greet",
+    "authors": [
+        {
+            "name": "文康",
+            "email": "1150134832@qq.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "hanson/vbot": "^2.0"
+    }
+}
